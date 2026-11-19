@@ -2,24 +2,24 @@
 <!--                      HERO BANNER SECTION                   -->
 <!-- ========================================================== -->
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Salah Khaled - Front-End Developer" />
+  <img src="./assets/header.svg" width="100%" alt="Salah Khaled - Full-Stack &amp; AI Systems Engineer" />
 </p>
 
 <!-- Animated Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=700&height=40&lines=Building+premium%2C+high-fidelity+web+experiences;React+%7C+Next.js+%7C+TypeScript+%7C+Supabase;Bilingual+AR%2FEN+%7C+RTL-first+Interfaces+%F0%9F%8C%90;Available+for+Collaboration+%F0%9F%9A%80" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;size=15&amp;duration=3000&amp;pause=900&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=40&amp;lines=Full-Stack+%26+AI+Systems+Engineer;Architecting+Scalable+Cloud+%26+Intelligent+Platforms;Next.js+16+%7C+React+19+%7C+TypeScript+%7C+Supabase;AI+Agents+%26+Production+LLMs+%E2%9C%A8;Open+For+High-Impact+Collaboration+%F0%9F%9A%80" alt="Typing animation" />
 </p>
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://github.com/EngSalahKhaled"><img src="./assets/github_badge.svg" width="120" alt="GitHub" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/salah-khaled-dev"><img src="./assets/github_badge.svg" width="120" alt="GitHub" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/salahkhaled-dev/"><img src="./assets/linkedin_badge.svg" width="120" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="mailto:info@salahkhaled.com"><img src="./assets/email_badge.svg" width="120" alt="Contact" /></a>
 </p>
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EngSalahKhaled&color=6366f1&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=salah-khaled-dev&amp;color=6366f1&amp;style=flat-square&amp;label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -31,9 +31,9 @@
 <!-- ========================================================== -->
 ## 🧑‍💻 Profile
 
-I am a detail-driven **Front-End Developer** specializing in engineering premium, accessible, and performant user interfaces. With a strong eye for design systems and clean layouts, I build modern web applications using **React**, **Next.js**, and **TypeScript**, integrating seamlessly with backend services like **Supabase**. 
+I am a detail-driven **Full-Stack & AI Systems Engineer** specializing in engineering premium, scalable, and performant web applications paired with intelligent AI workflows. With a strong eye for design systems, modular clean architecture, and high concurrency, I build production-grade platforms using **React 19**, **Next.js 16**, **TypeScript**, and **Tailwind CSS v4**, integrating seamlessly with cloud backends like **Supabase**, **PostgreSQL**, and modern LLM APIs.
 
-I focus on clean code, responsive layouts, and smooth animations, while maintaining high performance and SEO visibility. Certified by Meta in Frontend Engineering and Google in AI development.
+I focus on clean code, responsive layouts, sub-second latency, and fluid micro-interactions, while maintaining high performance, robust security, and technical SEO. Certified by Meta in Full-Stack & Web Engineering and Google in AI development.
 
 <br />
 
@@ -42,43 +42,49 @@ I focus on clean code, responsive layouts, and smooth animations, while maintain
 <!-- ========================================================== -->
 ## 📁 Featured Projects
 
-A selection of my strongest public repositories, ranked by quality, complexity, and styling.
+A curated selection of my strongest flagship repositories, ranked by complexity, architecture, and production readiness.
 
-#### 🌟 [AURA](https://github.com/EngSalahKhaled/aura-brand) — Luxury Fashion E-commerce + Admin ERP
-> **A luxury fashion e-commerce storefront unified with a full internal ERP & Admin Dashboard in a single Next.js codebase.**
-- **Stack:** Next.js 16 • TypeScript (strict) • Tailwind CSS • Framer Motion • DOMPurify • Custom EventBus + swappable storage adapter (backend-ready)
-- **Highlight:** Headless CMS website manager, role-based access control (RBAC), full RTL Arabic localization, inventory alerts, and dynamic SEO (server-side metadata, sitemaps, JSON-LD, OpenGraph).
-- **Resources:** [Live Demo](https://aura-brand-virid.vercel.app/) • [Repository](https://github.com/EngSalahKhaled/aura-brand)
+#### 🚀 [Mashhour-Hub](https://github.com/salah-khaled-dev/Mashhour-Hub-) — AI Digital Marketing Agency Platform
+> **Full-scale modern AI-driven digital marketing agency platform featuring bilingual localization and high-converting service showcases.**
+- **Stack:** Next.js • React • TypeScript • Tailwind CSS • Bilingual (AR/EN)
+- **Highlight:** Streamlined service discovery, high-converting client CTA pipelines, and lightning-fast SSR/SSG delivery tailored for regional enterprise clients.
+- **Resources:** [Live Demo](https://mashhor-hub.com/) • [Repository](https://github.com/salah-khaled-dev/Mashhour-Hub-)
 
-#### ⚡ [Copra-Dashboard](https://github.com/EngSalahKhaled/Copra-Dashboard)
+#### 🌟 [AURA](https://github.com/salah-khaled-dev/aura-brand) — Enterprise Luxury Fashion Platform & ERP
+> **A comprehensive, enterprise-grade luxury fashion e-commerce platform unifying a premium storefront with a full internal ERP & Admin Dashboard.**
+- **Stack:** Next.js 14 • TypeScript • Tailwind CSS • Supabase (PostgreSQL) • Framer Motion • EventBus
+- **Highlight:** Features a headless CMS website manager, role-based access control (RBAC), full RTL Arabic localization, real-time inventory alerts, and dynamic SEO.
+- **Resources:** [Live Demo](https://aura-brand-virid.vercel.app/) • [Repository](https://github.com/salah-khaled-dev/aura-brand)
+
+#### 🛒 [FreshCart](https://github.com/salah-khaled-dev/FreshCart-Ecommerce) — Modern Grocery & Supermarket E-Commerce
+> **Modern, high-performance grocery e-commerce platform featuring interactive Swiper carousels, persistent cart drawer, and mobile navigation.**
+- **Stack:** Next.js 16 • React 19 • Turbopack • Tailwind CSS v4 • shadcn/ui • Zod • React Hook Form
+- **Highlight:** Built with React 19 compiler optimizations, instant client-side cart drawer with local storage sync, and mobile-first bottom app navigation.
+- **Resources:** [Live Demo](https://fresh-cart-ecommerce-khaki.vercel.app/) • [Repository](https://github.com/salah-khaled-dev/FreshCart-Ecommerce)
+
+#### 🌐 [Social App](https://github.com/salah-khaled-dev/social-app) — Real-Time Social Media Platform & Community Hub
+> **Modern, high-performance social networking web application featuring JWT auth, media uploads, comments, and real-time offline detection.**
+- **Stack:** React 19 • TypeScript 6 • Vite 8 • Tailwind CSS v4 • TanStack Query v5 • Axios • Zod
+- **Highlight:** Dynamic posts feed with live image preview, nested comments, profile avatar customization, live unread notifications, and dual dark/light theme.
+- **Resources:** [Live Demo](https://social-app-three-theta.vercel.app/) • [Repository](https://github.com/salah-khaled-dev/social-app)
+
+#### ✨ [INFINITE BRIGHT](https://github.com/salah-khaled-dev/INFINITY-Bright-Web) — Luxury Automotive 3D WebGL Showroom
+> **Ultra-premium digital experience and 3D WebGL vehicle showroom for Saudi Arabia's premier automotive protection brand.**
+- **Stack:** Next.js 16 • React 19 • Three.js (React Three Fiber) • TypeScript • Tailwind CSS v4 • GSAP
+- **Highlight:** Interactive 3D vehicle wrap color studio, Before & After dual-slider, instant WhatsApp concierge booking, and dual Porcelain/Obsidian luxury theme.
+- **Resources:** [Live Demo](https://infinity-bright2.vercel.app/) • [Repository](https://github.com/salah-khaled-dev/INFINITY-Bright-Web)
+
+#### 🎯 [CLASH ZONE](https://github.com/salah-khaled-dev/Clash-Zone) — Tactical Entertainment & Arena Booking System
+> **Production-grade full-stack portal and booking management platform for a Laser Tag arena with real-time operational sync.**
+- **Stack:** React 19 • TypeScript 6 • Vite 8 • Tailwind CSS v4 • Supabase (PostgreSQL Realtime & Auth)
+- **Highlight:** Drag-and-drop weekly calendar, PostgreSQL Realtime synchronization, role-based access control (Admin/Manager/Employee), and automated WhatsApp workflows.
+- **Resources:** [Live Demo](https://clash-zone-nine.vercel.app/) • [Repository](https://github.com/salah-khaled-dev/Clash-Zone)
+
+#### ⚡ [Copra-Dashboard](https://github.com/salah-khaled-dev/Copra-Dashboard) — Cyberpunk Glassmorphic Analytics Hub
 > **A premium, high-performance admin dashboard featuring a cyberpunk dark-mode glassmorphic aesthetic.**
-- **Stack:** HTML5 • CSS3 (Vanilla Glassmorphism) • JavaScript (ES6) • Supabase (Auth & Database) • PLpgSQL
+- **Stack:** HTML5 • CSS3 (Vanilla Glassmorphism) • JavaScript (ES6) • Supabase (Auth & Database)
 - **Highlight:** Fully integrated user authentication and database operations utilizing Supabase.
-- **Resources:** [Live Demo](https://copra-dashboard.vercel.app) • [Repository](https://github.com/EngSalahKhaled/Copra-Dashboard)
-
-#### 💎 Infinity Bright Portal — Production CRM & Booking System *(client work)*
-> **A CRM and booking-management system running in production for a luxury car-care center in Riyadh — built solo, end to end.**
-- **Stack:** React 19 • Vite • TypeScript • Tailwind CSS 4 • Supabase (PostgreSQL, Auth, Realtime) • Framer Motion
-- **Highlight:** Drag-and-drop scheduling calendar with realtime multi-screen sync, follow-up tracking, analytics dashboards, CSV export, and native Arabic RTL. v5 release cut the entry JS bundle 90.7% and image weight 93.7%.
-- **Resources:** [Live App](https://infinity-bright-portal.vercel.app) *(code private — client project)*
-
-#### 🚀 Mashhour Hub — Production Platform *(client work)*
-> **Bilingual production web platform for content creators, live at [mashhor-hub.com](https://mashhor-hub.com) — frontend development and beta-phase iteration.**
-- **Stack:** Node.js 22 • Firebase • MyFatoorah Payments • reCAPTCHA • GA4 • scripted test-gated release pipeline
-- **Highlight:** Shipped through an automated build pipeline that runs the test suite, blocks secret leakage, and SHA256-stamps every deploy package.
-- **Resources:** [Live Site](https://mashhor-hub.com)
-
-#### 🎮 [NeonTech-Gaming-Store](https://github.com/EngSalahKhaled/NeonTech-Gaming--Store)
-> **Premium gaming e-commerce platform with a rich catalog and real-time WhatsApp checkout routing.**
-- **Stack:** HTML5 • CSS3 • JavaScript • WhatsApp Checkout Integration • Supabase Auth
-- **Highlight:** Dynamic cart management and seamless checkout flow supporting over 70 gaming products.
-- **Resources:** [Repository](https://github.com/EngSalahKhaled/NeonTech-Gaming--Store)
-
-#### 📰 [Ui-UX-Landing-Page](https://github.com/EngSalahKhaled/Ui-UX-Landing-Page-)
-> **A pixel-perfect clone of 'The UX Review' blog utilizing Neo-Brutalist layout styles.**
-- **Stack:** HTML5 • CSS3 (High Contrast / Grid System)
-- **Highlight:** Handcrafted responsive layout resolving complex typography grids and border styling without templates.
-- **Resources:** [Repository](https://github.com/EngSalahKhaled/Ui-UX-Landing-Page-)
+- **Resources:** [Live Demo](https://copra-dashboard.vercel.app) • [Repository](https://github.com/salah-khaled-dev/Copra-Dashboard)
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Divider" />
@@ -89,24 +95,28 @@ A selection of my strongest public repositories, ranked by quality, complexity, 
 <!-- ========================================================== -->
 ## 🛠️ Technical Stack
 
-I use a curated set of tools and technologies to build scalable, high-performance web applications:
+I leverage a modern, curated engineering stack to architect scalable full-stack applications and intelligent AI platforms:
 
 <table>
   <tr>
-    <td width="25%"><strong>Core Frontend</strong></td>
-    <td>React, Next.js, HTML5, CSS3, Tailwind CSS, Framer Motion</td>
+    <td width="25%"><strong>Frontend &amp; UI</strong></td>
+    <td>React 19, Next.js 16 (App Router), TypeScript, Tailwind CSS v4, Three.js (WebGL), Framer Motion, GSAP</td>
   </tr>
   <tr>
-    <td width="25%"><strong>Languages</strong></td>
-    <td>JavaScript (ES6+), TypeScript, SQL (PostgreSQL)</td>
+    <td width="25%"><strong>Backend &amp; Cloud</strong></td>
+    <td>Supabase (PostgreSQL Realtime, Auth, Storage), Node.js, Express, REST APIs, Edge Functions</td>
   </tr>
   <tr>
-    <td width="25%"><strong>Backend &amp; DB</strong></td>
-    <td>Node.js, Express, Supabase (PostgreSQL, PLpgSQL)</td>
+    <td width="25%"><strong>State &amp; Data</strong></td>
+    <td>TanStack React Query v5, Zustand, EventBus Architecture, Zod Validation, Axios Interceptors</td>
   </tr>
   <tr>
-    <td width="25%"><strong>Developer Tools</strong></td>
-    <td>Git, GitHub Actions, VS Code, Vercel</td>
+    <td width="25%"><strong>AI &amp; Automation</strong></td>
+    <td>LLM API Integration, Agentic AI Workflows, Prompt Engineering, Gemini / OpenAI SDKs</td>
+  </tr>
+  <tr>
+    <td width="25%"><strong>Tooling &amp; DevOps</strong></td>
+    <td>Git, GitHub Actions, Turbopack, Vite 8, Vercel CI/CD, VS Code, Figma</td>
   </tr>
 </table>
 
@@ -117,9 +127,9 @@ I use a curated set of tools and technologies to build scalable, high-performanc
 <!-- ========================================================== -->
 ## 🏆 Certifications
 
-- 🏷️ **Meta Certified Frontend Developer**
-- 🏷️ **Google AI Essentials**
-- 🏷️ **Gemini Student Ambassador / Certified Student**
+- 🏷️ **Meta Certified Full-Stack & Web Developer**
+- 🏷️ **Google AI Essentials Certified**
+- 🏷️ **Gemini Student Ambassador / Certified AI Specialist**
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Divider" />
@@ -130,9 +140,9 @@ I use a curated set of tools and technologies to build scalable, high-performanc
 <!-- ========================================================== -->
 ## 🎯 Current Focus
 
-- 🚀 **Currently Building:** E-commerce solutions, dashboard interfaces, and premium animated design layouts.
-- 📚 **Currently Learning:** Next.js Server Components, Server-Side Rendering patterns, and Advanced Web APIs.
-- 🌐 **Open Source Goals:** Contributing to accessible UI components and reusable design utilities.
+- 🚀 **Currently Building:** High-concurrency enterprise e-commerce systems, 3D WebGL web experiences, and autonomous AI agents.
+- 📚 **Currently Deepening:** React 19 Server Components, Edge Compute runtimes, and Agentic AI Architecture.
+- 🌐 **Collaboration Goals:** Open to high-impact Senior Full-Stack & AI Engineering roles and scalable client platforms.
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Divider" />
@@ -143,15 +153,15 @@ I use a curated set of tools and technologies to build scalable, high-performanc
 <!-- ========================================================== -->
 ## 📊 GitHub Analytics
 
-These charts automatically track my active repositories and coding metrics.
+These live trackers automatically monitor my active repositories and coding cadence.
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=EngSalahKhaled&show_icons=true&title_color=f4f4f5&text_color=a1a1aa&bg_color=09090b&icon_color=6366f1&border_color=27272a&border_radius=6" alt="Salah's GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=EngSalahKhaled&layout=compact&title_color=f4f4f5&text_color=a1a1aa&bg_color=09090b&icon_color=6366f1&border_color=27272a&border_radius=6&langs_count=6" alt="Salah's Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=salah-khaled-dev&amp;show_icons=true&amp;title_color=f4f4f5&amp;text_color=a1a1aa&amp;bg_color=09090b&amp;icon_color=6366f1&amp;border_color=27272a&amp;border_radius=8" alt="Salah's GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=salah-khaled-dev&amp;layout=compact&amp;title_color=f4f4f5&amp;text_color=a1a1aa&amp;bg_color=09090b&amp;icon_color=6366f1&amp;border_color=27272a&amp;border_radius=8&amp;langs_count=6" alt="Salah's Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EngSalahKhaled&bg_color=09090b&color=f4f4f5&line=6366f1&point=14b8a6&area=true&hide_border=true" alt="Salah's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salah-khaled-dev&amp;bg_color=09090b&amp;color=f4f4f5&amp;line=6366f1&amp;point=10b981&amp;area=true&amp;hide_border=true" alt="Salah's Activity Graph" width="100%" />
 </p>
 
 <br />
@@ -161,12 +171,10 @@ These charts automatically track my active repositories and coding metrics.
 <!-- ========================================================== -->
 ## 🐍 Contribution Activity
 
-This snake animates based on daily commit history. It runs via a GitHub Actions cron job.
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngSalahKhaled/EngSalahKhaled/output/github-contribution-grid-snake-neon.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EngSalahKhaled/EngSalahKhaled/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/EngSalahKhaled/EngSalahKhaled/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salah-khaled-dev/salah-khaled-dev/output/github-contribution-grid-snake-neon.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salah-khaled-dev/salah-khaled-dev/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/salah-khaled-dev/salah-khaled-dev/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </picture>
 
 <p align="center">
@@ -174,7 +182,7 @@ This snake animates based on daily commit history. It runs via a GitHub Actions 
 </p>
 
 <!-- ========================================================== -->
-<!--                        FOOTER BRADING                      -->
+<!--                        FOOTER BRANDING                     -->
 <!-- ========================================================== -->
 <p align="center">
   <img src="./assets/footer.svg" width="100%" alt="Salah Khaled Footer" />
